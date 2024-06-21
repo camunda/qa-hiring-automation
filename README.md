@@ -7,13 +7,16 @@ Use Playwright and TypeScript to automate the following workflow: sign into Camu
 
 1. **Sign up for Camunda 8**
    - If you don't already have an account, you can register [here](https://camunda.com/get-started/).
+  
+2. **Explore Camunda 8**
+   - Get familiar with Camunda 8 by following the tutorials in [Camunda Academy](https://www.youtube.com/playlist?list=PLJG25HlmvsOV2mPUplJQxDLi7_e0tDJvU)
 
-2. **Explore the REST Connector**
+3. **Explore the REST Connector**
    - Follow the guide for configuring the REST Connector in Camunda 8 available [here](https://docs.camunda.io/docs/components/connectors/protocol/rest/).
    - Make sure you understand how to interact with external APIs using this connector.
    - You can also use this [video](https://www.youtube.com/watch?v=RfNp3iOWEhQ) for support.
 
-3. **Automate the following test case using Playwright and TypeScript**
+4. **Automate the following test case using Playwright and TypeScript**
    1. Sign into Camunda 8 platform
    2. Navigate to the Web Modeler
    3. Create a process with a REST Connector
